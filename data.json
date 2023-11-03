@@ -148,6 +148,12 @@
     "patterns": ["How can I prevent COVID-19 or pneumonia in the future?", "Preventing future infections", "Staying healthy", "Infection prevention tips"],
     "responses": ["Prevention includes vaccination, hygiene, and a healthy lifestyle. Consult your healthcare provider for personalized advice."],
     "context": [""]
+    },
+    {"tag": "plantation",
+    "patterns": ["wheat plantation"],
+    "responses": ["january"],
+    "context": [""]
+
     }
 ]
 }
